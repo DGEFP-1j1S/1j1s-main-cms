@@ -22,7 +22,7 @@ module "main_cms_app" {
   }
 
   github_integration = {
-    repo_url            = "https://github.com/DNUM-SocialGouv/1j1s-main-cms"
+    repo_url            = "https://github.com/DGEFP-1j1S/1j1s-main-cms"
     branch              = var.branche_git
     auto_deploy_enabled = (terraform.workspace == "default") ? true : false
   }

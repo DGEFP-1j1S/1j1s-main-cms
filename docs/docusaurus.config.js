@@ -45,7 +45,7 @@ const config = {
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
-	organizationName: 'DNUM-SocialGouv',
+	organizationName: 'DGEFP-1j1S',
 
 
 	presets: [
@@ -57,7 +57,7 @@ const config = {
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl:
-						'https://github.com/DNUM-SocialGouv/1j1s-main-cms/tree/main/docs/docs/',
+						'https://github.com/DGEFP-1j1S/1j1s-main-cms/tree/main/docs/docs/',
 
 
 					lastVersion: 'current',
@@ -99,15 +99,15 @@ const config = {
 					{
 						items: [
 							{
-								href: 'https://github.com/DNUM-SocialGouv/1j1s-main-cms',
+								href: 'https://github.com/DGEFP-1j1S/1j1s-main-cms',
 								label: 'Front (sur Github)',
 							},
 							{
-								href: 'https://github.com/DNUM-SocialGouv/1j1s-main-cms',
+								href: 'https://github.com/DGEFP-1j1S/1j1s-main-cms',
 								label: 'CMS (sur Github)',
 							},
 							{
-								href: 'https://github.com/DNUM-SocialGouv/1j1s-etl',
+								href: 'https://github.com/DGEFP-1j1S/1j1s-etl',
 								label: 'ETL (sur Github)',
 							},
 						],
@@ -148,13 +148,13 @@ const config = {
 						type: 'doc',
 					},
 					{
-						href: 'https://dnum-socialgouv.github.io/1j1s-front/docs/architecture',
+						href: 'https://dgefp-1j1s.github.io/1j1s-front/docs/architecture',
 						label: 'Front',
 						position: 'left',
 						target: '_self',
 					},
 					{
-						href: 'https://dnum-socialgouv.github.io/1j1s-etl/docs/architecture',
+						href: 'https://dgefp-1j1s.github.io/1j1s-etl/docs/architecture',
 						label: 'ETL',
 						position: 'left',
 						target: '_self',
@@ -171,7 +171,7 @@ const config = {
 						type: 'docsVersionDropdown',
 					},
 					{
-						href: 'https://github.com/DNUM-SocialGouv/1j1s-main-cms',
+						href: 'https://github.com/DGEFP-1j1S/1j1s-main-cms',
 						label: 'Code source',
 						position: 'right',
 					},
@@ -193,7 +193,7 @@ const config = {
 	title: 'Documentation Technique 1jeune1solution',
 
 	// URL de votre site web. Cela peut également être considéré comme le nom d'hôte de premier niveau.
-	url: 'https://dnum-socialgouv.github.io/',
+	url: 'https://dgefp-1j1s.github.io/',
 };
 
 module.exports = config;

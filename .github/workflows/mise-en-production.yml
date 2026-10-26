@@ -35,7 +35,7 @@ jobs:
           scalingo backups-create --addon "$POSTGRESQL_ADDON_ID"
 
   terraform:
-    uses: DNUM-SocialGouv/1j1s-front/.github/workflows/terraform-template.yml@main
+    uses: DGEFP-1j1S/1j1s-front/.github/workflows/terraform-template.yml@main
     secrets: inherit
     with:
       apply: true

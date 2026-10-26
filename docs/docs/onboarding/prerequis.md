@@ -20,4 +20,4 @@ Ce document relate les différents prérequis permettant l'installation du proje
 
 ## Pour aller plus loin dans l'écosystème 1j1s (optionnel)
 
-* [Projet chargement de données](https://github.com/DNUM-SocialGouv/1j1s-stage-orchestrateur-transform-load)
+* [Projet chargement de données](https://github.com/DGEFP-1j1S/1j1s-etl)

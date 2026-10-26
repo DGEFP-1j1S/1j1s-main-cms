@@ -5,7 +5,7 @@
     "description": "Gestionnaire de contenu et de concatenation de stages 1 jeune 1 solution",
     "license": {
       "name": "MIT",
-      "url": "https://github.com/DNUM-SocialGouv/1j1s-stage-orchestrateur-transform-load/blob/main/LICENSE"
+      "url": "https://github.com/DGEFP-1j1S/1j1s-etl/blob/main/LICENSE"
     },
     "contact": {
       "name": "l'équipe",
