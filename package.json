@@ -20,12 +20,12 @@
     "test": "mocha"
   },
   "dependencies": {
-    "@strapi/logger": "4.25.23",
-    "@strapi/plugin-documentation": "4.25.23",
-    "@strapi/plugin-sentry": "4.25.23",
-    "@strapi/plugin-users-permissions": "4.25.23",
-    "@strapi/provider-upload-aws-s3": "4.25.23",
-    "@strapi/strapi": "4.25.23",
+    "@strapi/logger": "4.26.2",
+    "@strapi/plugin-documentation": "4.26.2",
+    "@strapi/plugin-sentry": "4.26.2",
+    "@strapi/plugin-users-permissions": "4.26.2",
+    "@strapi/provider-upload-aws-s3": "4.26.2",
+    "@strapi/strapi": "4.26.2",
     "pg": "8.13.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -51,7 +51,7 @@
     "uuid": "c8583f78-6df0-4091-8734-ede822e386b8"
   },
   "engines": {
-    "node": "^18.20.7"
+    "node": "^22.23.4"
   },
   "license": "MIT"
 }

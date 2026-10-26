@@ -14,7 +14,7 @@ Ce document relate les différents prérequis permettant l'installation du proje
 
 * [npm](https://www.npmjs.com/) version 9
 * [nvm](https://github.com/nvm-sh/nvm) recommandé
-* [NodeJS](https://nodejs.org/fr/), version 18
+* [NodeJS](https://nodejs.org/fr/), version 22
 * [Docker](https://docs.docker.com/desktop/)
 * [docker-compose](https://docs.docker.com/compose/)
 
