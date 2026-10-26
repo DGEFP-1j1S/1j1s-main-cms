@@ -14,7 +14,7 @@ export default {
       },
       "license": {
         "name": "MIT",
-        'url': "https://github.com/DNUM-SocialGouv/1j1s-stage-orchestrateur-transform-load/blob/main/LICENSE",
+        'url': "https://github.com/DGEFP-1j1S/1j1s-etl/blob/main/LICENSE",
       },
     },
     "x-strapi-config": {

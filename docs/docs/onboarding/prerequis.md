@@ -14,10 +14,10 @@ Ce document relate les différents prérequis permettant l'installation du proje
 
 * [npm](https://www.npmjs.com/) version 9
 * [nvm](https://github.com/nvm-sh/nvm) recommandé
-* [NodeJS](https://nodejs.org/fr/), version 18
+* [NodeJS](https://nodejs.org/fr/), version 22
 * [Docker](https://docs.docker.com/desktop/)
 * [docker-compose](https://docs.docker.com/compose/)
 
 ## Pour aller plus loin dans l'écosystème 1j1s (optionnel)
 
-* [Projet chargement de données](https://github.com/DNUM-SocialGouv/1j1s-stage-orchestrateur-transform-load)
+* [Projet chargement de données](https://github.com/DGEFP-1j1S/1j1s-etl)
